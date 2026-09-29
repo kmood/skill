@@ -1,0 +1,4 @@
+interface:
+  display_name: "数据库设计说明书编制"
+  short_description: "依据 SQL 完善数据库设计说明书，绘制架构和实体关系，并按 Word 模板排版校验"
+  default_prompt: "使用 $database-design-doc，根据 SQL、现有说明书和样式模板完善数据库设计说明书，保留指定章节并验证交付文档。"
